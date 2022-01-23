@@ -1,5 +1,5 @@
-global.owner = ["123@s.whatsapp.net"]
-global.multiPrefix = false
+global.owner = ["6285777451314@s.whatsapp.net"]
+global.multiPrefix = true
 global.autoRead = true
 
 global.messConf = {
